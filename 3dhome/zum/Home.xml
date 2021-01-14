@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<home version='6400' exportFlags='17' name='1.sh3d' camera='topCamera' wallHeight='274.32'>
+  <environment groundColor='00A8A8A8' skyColor='00CCE4FC' lightColor='00D0D0D0'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='50.0' y='50.0' z='0.0' yaw='5.4977875' pitch='0.19634955' fieldOfView='1.0995575' time='1610539200000'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='231.0028' y='-594.2631' z='90' yaw='6.419332' pitch='0.0' fieldOfView='1.0995575' time='1610539200000'/>
+  <pieceOfFurniture name='stained_glass_chandelier_3ds' model='1/stained_glass_chandelier_3ds.3DS.obj' x='131.56813' y='131.56813' width='263.13626' depth='263.13626' height='304.8' modelSize='1688186'/>
+</home>
