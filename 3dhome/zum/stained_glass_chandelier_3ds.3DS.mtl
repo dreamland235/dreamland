@@ -1,0 +1,60 @@
+# 3D model import C:\Users\Dolly\Desktop\stained_glass_chandelier_3ds\stained_glass_chandelier_3ds.3DS
+
+newmtl Glass
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.074117646 0.074117646 0.074117646
+Ns 53.760002
+Ni 1
+d 0.31
+
+newmtl metal
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.019607844 0.019607844 0.019607844
+Ks 0.13333334 0.13333334 0.13333334
+Ns 65.28001
+
+newmtl Light
+illum 1
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+
+newmtl Glass_Yellow
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.08470588 0.08470588 0.08470588
+Ns 61.440002
+Ni 1
+d 0.37
+
+newmtl Glass_Blue
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.08470588 0.08470588 0.08470588
+Ns 61.440002
+Ni 1
+d 0.6
+
+newmtl Glass_Pink
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.08470588 0.08470588 0.08470588
+Ns 61.440002
+Ni 1
+d 0.31
+
+newmtl Glass_Green
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.08470588 0.08470588 0.08470588
+Ns 61.440002
+Ni 1
+d 0.75
